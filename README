@@ -1,0 +1,27 @@
+Registration Form
+
+A simple and responsive registration form built with HTML5 and CSS3.
+This project is part of Phase 1 – Week 2 Mini Projects.
+
+🚀 Features
+
+Semantic HTML structure (header, main, footer)
+
+Responsive design with Flexbox and max-width container
+
+Form validation with required, minlength, and regex pattern checks
+
+Password requirements guide (uppercase, lowercase, number, min 8 characters)
+
+Clean and modern UI with shadows, rounded corners, and hover effects
+
+📸 Preview
+
+
+(Add a screenshot of your form here — just take one and upload to repo as screenshot.png)
+
+🛠️ Technologies Used
+
+HTML5 for structure
+
+CSS3 for styling & layout
